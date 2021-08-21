@@ -1,0 +1,13 @@
+/* .cbtn-color {
+  background-color: white;
+  color: black;
+} */
+.cbtn-color:hover {
+  background-color: lightblue;
+  color: #000;
+}
+
+.active-menu {
+  background-color: #343a40;
+  color: white;
+}
